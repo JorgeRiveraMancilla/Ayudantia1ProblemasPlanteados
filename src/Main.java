@@ -1,5 +1,5 @@
-import ucn.StdIn;
-import ucn.StdOut;
+import edu.princeton.cs.stdlib.StdIn;
+import edu.princeton.cs.stdlib.StdOut;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
